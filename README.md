@@ -1,5 +1,5 @@
 # warehouse
 测试github上传代码
-*.js linguist-language=python
-*.css linguist-language=python
-*.html linguist-language=python
+
+
+基于Python和PyQT5的一款人脸识别签到系统，具有签到语音播报功能，和数据可视化
